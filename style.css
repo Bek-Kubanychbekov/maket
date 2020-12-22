@@ -219,3 +219,8 @@ flex-grow: 0;
 margin: 0px 10px;
 
 }
+#cv{
+    position: absolute;
+    top: 1250px;
+    left: 100px;
+}
